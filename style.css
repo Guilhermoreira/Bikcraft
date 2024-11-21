@@ -1,2 +1,10 @@
-@import './css/global.css';
-@import './css/header.css';
+@import './css/global/global.css';
+@import './css/global/header.css';
+@import './css/home/introducao.css';
+@import './css/utilidades/componente.css';
+@import './css/utilidades/tipografia.css';
+@import './css/utilidades/cores.css';
+@import './css/bicicletas/bicicletas-lista.css';
+@import './css/home/tecnologia.css';
+@import './css/home/parceiros.css';
+@import './css/home/depoimento.css';
