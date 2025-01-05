@@ -1,4 +1,4 @@
-h1,h2,h3,p,blockquote{
+h1,h2,h3,p,dd,blockquote{
     margin: 0px;
 }
 
@@ -13,6 +13,8 @@ a{
     text-decoration: none;
 }
 
+
+
 img{
     max-width: 100%;
     display: block;
@@ -20,7 +22,6 @@ img{
 }
 body{
     margin: 0px;
-    padding-bottom: 600px;
     color: #111111;
 }
 a{

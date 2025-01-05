@@ -6,16 +6,21 @@
     margin-bottom: 40px;
     
 }
+.body{
+    background-color: blue;
+}
 .bicicletas-lista ul{
     display: flex;
     gap: 40px;
-    padding: 0 20px 20px 20px ;
+    padding: 0 0px 20px 0px ;
     max-width: 1400px;
     margin: 0 auto;
     overflow: scroll;
     overflow-x: auto;
 }
-.bicicletas-lista li{
+
+
+.bicicletas-listas li{
     min-width: 280px;
     flex: 1;
 }
@@ -54,3 +59,17 @@
         gap: 20px;
     }
 }
+
+
+.seguro-bg{
+    background: var(--cor-11);
+}
+.seguro{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    gap: 40px;
+}
+
+
