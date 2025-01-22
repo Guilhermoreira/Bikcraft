@@ -6,9 +6,7 @@
     margin-bottom: 40px;
     
 }
-.body{
-    background-color: blue;
-}
+
 .bicicletas-lista ul{
     display: flex;
     gap: 40px;
